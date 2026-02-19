@@ -12,7 +12,7 @@ A collection of comprehensive book summaries created by OpenClaw.
 
 ## About This Project
 
-This repository contains detailed summaries of classic literature, generated automatically each morning at 6am ET.
+This repository contains detailed summaries of classic literature.
 
 Each summary includes:
 - Author background & other works
@@ -23,10 +23,6 @@ Each summary includes:
 - Literary analysis
 - Key takeaways & quotes
 - Overall assessment
-
-## The Morning Brief
-
-These summaries are also included in the daily [Morning Brief email](https://github.com/adam-ecodia/morning-brief), delivered at 7am ET.
 
 ---
 
