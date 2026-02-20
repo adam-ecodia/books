@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: _None yet_
-- Current position: 0 (next: Sapiens)
+- Last summarized: Sapiens
+- Current position: 1 (next: The Selfish Gene)
 
 ## Books
 
