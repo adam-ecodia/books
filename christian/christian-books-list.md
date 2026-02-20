@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: _None yet_
-- Current position: 0 (next: Mere Christianity)
+- Last summarized: Mere Christianity
+- Current position: 1 (next: The Screwtape Letters)
 
 ## Books
 
