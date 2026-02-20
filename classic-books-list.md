@@ -4,8 +4,8 @@ A rotating collection of classic literature summaries.
 
 ## Rotation
 
-- Last summarized: Pride and Prejudice
-- Current position: 2 (next: The Great Gatsby)
+- Last summarized: 1984
+- Current position: 3 (next: The Great Gatsby)
 
 ## Books
 
