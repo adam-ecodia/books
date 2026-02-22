@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: The Selfish Gene
-- Current position: 2 (next: A Brief History of Time)
+- Last summarized: A Brief History of Time
+- Current position: 3 (next: The Origin of Species)
 
 ## Books
 
