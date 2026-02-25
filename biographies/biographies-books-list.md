@@ -4,8 +4,8 @@ A rotating collection of biography book summaries covering influential lives, me
 
 ## Rotation
 
-- Last summarized: Steve Jobs (Feb 22, 2026)
-- Current position: 1 (next: The Autobiography of Benjamin Franklin)
+- Last summarized: The Autobiography of Benjamin Franklin (Feb 25, 2026)
+- Current position: 2 (next: Einstein: His Life and Universe)
 
 ## Books
 
