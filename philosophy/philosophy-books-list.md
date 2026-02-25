@@ -55,7 +55,10 @@ A collection of influential philosophy books spanning various traditions and era
 49. **The Blank Slate** - Steven Pinker (2002)
 50. **Superintelligence** - Nick Bostrom (2014)
 
-## Categories
+## Rotation
+
+- Last summarized: Republic (Plato)
+- Current position: 1 (next: Nicomachean Ethics)
 
 ### Ancient Philosophy
 - Republic, Nicomachean Ethics, Meditations, Enchiridion
