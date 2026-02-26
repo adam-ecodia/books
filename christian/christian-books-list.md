@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: The Screwtape Letters
-- Current position: 2 (next: The Pursuit of God)
+- Last summarized: The Pursuit of God
+- Current position: 3 (next: The Cost of Discipleship)
 
 ## Books
 
