@@ -4,8 +4,8 @@ A rotating collection of classic literature summaries.
 
 ## Rotation
 
-- Last summarized: The Great Gatsby
-- Current position: 4 (next: To Kill a Mockingbird)
+- Last summarized: 1984
+- Current position: 2 (next: To Kill a Mockingbird)
 
 ## Books
 
