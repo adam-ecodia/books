@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: A Brief History of Time
-- Current position: 3 (next: The Origin of Species)
+- Last summarized: The Origin of Species
+- Current position: 4 (next: Thinking, Fast and Slow)
 
 ## Books
 
