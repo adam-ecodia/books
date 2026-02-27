@@ -4,7 +4,7 @@ A rotating collection of biography book summaries covering influential lives, me
 
 ## Rotation
 
-- Last summarized: The Autobiography of Benjamin Franklin (Feb 25, 2026)
+- Last summarized: Einstein: His Life and Universe (Feb 27, 2026)
 - Current position: 2 (next: Einstein: His Life and Universe)
 
 ## Books
