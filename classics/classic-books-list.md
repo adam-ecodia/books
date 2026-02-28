@@ -4,8 +4,8 @@ A rotating collection of classic literature summaries.
 
 ## Rotation
 
-- Last summarized: 1984
-- Current position: 2 (next: To Kill a Mockingbird)
+- Last summarized: To Kill a Mockingbird
+- Current position: 3 (next: Moby Dick)
 
 ## Books
 
