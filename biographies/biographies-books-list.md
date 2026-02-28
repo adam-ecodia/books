@@ -5,7 +5,7 @@ A rotating collection of biography book summaries covering influential lives, me
 ## Rotation
 
 - Last summarized: The Autobiography of Benjamin Franklin (Feb 28, 2026)
-- Current position: 3 (next: The Diary of a Young Girl)
+- Current position: 5 (next: Long Walk to Freedom)
 
 ## Books
 

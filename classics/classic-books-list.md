@@ -5,7 +5,7 @@ A rotating collection of classic literature summaries.
 ## Rotation
 
 - Last summarized: To Kill a Mockingbird
-- Current position: 3 (next: Moby Dick)
+- Current position: 4 (next: The Great Gatsby)
 
 ## Books
 
