@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: The Cost of Discipleship
-- Current position: 4 (next: The Purpose Driven Life)
+- Last summarized: The Purpose Driven Life
+- Current position: 5 (next: The Shack)
 
 ## Books
 
