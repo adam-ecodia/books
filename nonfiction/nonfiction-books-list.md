@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: Thinking, Fast and Slow
-- Current position: 5 (next: The Power of Habit)
+- Last summarized: The Power of Habit
+- Current position: 6 (next: Atomic Habits)
 
 ## Books
 
