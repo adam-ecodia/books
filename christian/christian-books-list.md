@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: The Purpose Driven Life
-- Current position: 5 (next: The Shack)
+- Last summarized: The Shack
+- Current position: 6 (next: The Case for Christ)
 
 ## Books
 
