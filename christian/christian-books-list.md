@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: The Shack
-- Current position: 6 (next: The Case for Christ)
+- Last summarized: The Case for Christ
+- Current position: 8 (next: The Reason for God)
 
 ## Books
 
