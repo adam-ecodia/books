@@ -57,8 +57,8 @@ A collection of influential philosophy books spanning various traditions and era
 
 ## Rotation
 
-- Last summarized: Nicomachean Ethics (Aristotle)
-- Current position: 2 (next: Meditations)
+- Last summarized: Meditations (Marcus Aurelius)
+- Current position: 3 (next: Enchiridion)
 
 ### Ancient Philosophy
 - Republic, Nicomachean Ethics, Meditations, Enchiridion
