@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: The Origin of Species
-- Current position: 4 (next: Thinking, Fast and Slow)
+- Last summarized: Thinking, Fast and Slow
+- Current position: 5 (next: The Power of Habit)
 
 ## Books
 
