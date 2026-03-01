@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: The Power of Habit
-- Current position: 6 (next: Atomic Habits)
+- Last summarized: Atomic Habits
+- Current position: 7 (next: Educated)
 
 ## Books
 
