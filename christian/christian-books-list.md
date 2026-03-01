@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: The Case for Christ
-- Current position: 8 (next: The Reason for God)
+- Last summarized: The Reason for God
+- Current position: 9 (next: The Knowledge of the Holy)
 
 ## Books
 
