@@ -4,8 +4,8 @@ A rotating collection of biography book summaries covering influential lives, me
 
 ## Rotation
 
-- Last summarized: The Autobiography of Benjamin Franklin (Feb 28, 2026)
-- Current position: 5 (next: Long Walk to Freedom)
+- Last summarized: Long Walk to Freedom (Mar 2, 2026)
+- Current position: 6 (next: The Autobiography of Malcolm X)
 
 ## Books
 
