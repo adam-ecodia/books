@@ -4,8 +4,8 @@ A rotating collection of classic literature summaries.
 
 ## Rotation
 
-- Last summarized: The Great Gatsby
-- Current position: 4 (next: Moby Dick)
+- Last summarized: Jane Eyre
+- Current position: 6 (next: The Catcher in the Rye)
 
 ## Books
 
