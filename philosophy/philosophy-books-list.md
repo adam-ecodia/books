@@ -57,8 +57,8 @@ A collection of influential philosophy books spanning various traditions and era
 
 ## Rotation
 
-- Last summarized: The Consolation of Philosophy (Boethius)
-- Current position: 5 (next: Summa Theologica)
+- Last summarized: Summa Theologica (Thomas Aquinas)
+- Current position: 6 (next: Meditations on First Philosophy)
 
 ### Ancient Philosophy
 - Republic, Nicomachean Ethics, Meditations, Enchiridion
