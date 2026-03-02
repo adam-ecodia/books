@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: The Reason for God
-- Current position: 9 (next: The Knowledge of the Holy)
+- Last summarized: The Knowledge of the Holy
+- Current position: 10 (next: The Great Divorce)
 
 ## Books
 
