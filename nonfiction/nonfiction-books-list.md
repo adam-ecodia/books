@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: Atomic Habits
-- Current position: 7 (next: Educated)
+- Last summarized: Educated
+- Current position: 9 (next: Man's Search for Meaning)
 
 ## Books
 
