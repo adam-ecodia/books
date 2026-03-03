@@ -4,8 +4,8 @@ A rotating collection of classic literature summaries.
 
 ## Rotation
 
-- Last summarized: Jane Eyre
-- Current position: 6 (next: The Catcher in the Rye)
+- Last summarized: The Catcher in the Rye
+- Current position: 7 (next: Wuthering Heights)
 
 ## Books
 
