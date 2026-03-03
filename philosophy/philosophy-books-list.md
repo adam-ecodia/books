@@ -57,8 +57,8 @@ A collection of influential philosophy books spanning various traditions and era
 
 ## Rotation
 
-- Last summarized: Summa Theologica (Thomas Aquinas)
-- Current position: 6 (next: Meditations on First Philosophy)
+- Last summarized: Meditations on First Philosophy (René Descartes)
+- Current position: 7 (next: Leviathan)
 
 ### Ancient Philosophy
 - Republic, Nicomachean Ethics, Meditations, Enchiridion
