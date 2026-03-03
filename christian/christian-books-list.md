@@ -4,8 +4,8 @@ A rotating collection of Christian book summaries covering theology, spiritualit
 
 ## Rotation
 
-- Last summarized: The Knowledge of the Holy
-- Current position: 10 (next: The Great Divorce)
+- Last summarized: The Great Divorce
+- Current position: 10 (next: God's Smuggler)
 
 ## Books
 
