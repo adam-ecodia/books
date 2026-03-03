@@ -4,8 +4,8 @@ A rotating collection of biography book summaries covering influential lives, me
 
 ## Rotation
 
-- Last summarized: Long Walk to Freedom (Mar 2, 2026)
-- Current position: 6 (next: The Autobiography of Malcolm X)
+- Last summarized: The Autobiography of Malcolm X (Mar 3, 2026)
+- Current position: 7 (next: Churchill: A Life)
 
 ## Books
 
