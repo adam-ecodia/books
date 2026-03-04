@@ -4,8 +4,8 @@ A rotating collection of biography book summaries covering influential lives, me
 
 ## Rotation
 
-- Last summarized: The Autobiography of Malcolm X (Mar 3, 2026)
-- Current position: 7 (next: Churchill: A Life)
+- Last summarized: Churchill: A Life (Mar 4, 2026)
+- Current position: 8 (next: American Lion)
 
 ## Books
 
