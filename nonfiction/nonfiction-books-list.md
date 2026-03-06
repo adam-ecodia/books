@@ -4,8 +4,8 @@ A rotating collection of nonfiction book summaries.
 
 ## Rotation
 
-- Last summarized: Educated
-- Current position: 9 (next: Man's Search for Meaning)
+- Last summarized: The 7 Habits of Highly Effective People
+- Current position: 11 (next: The 7 Habits of Highly Effective People)
 
 ## Books
 
